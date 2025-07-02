@@ -1,5 +1,5 @@
-<h2 align="center">Hi, I'm <a href="https://www.linkedin.com/in/aermoshkin/" target="_blank">Aleksandr</a> </h2>
-<h3 align="center">Russia, Omsk</h3>
+<h2 align="center">Hi, I'm <a href="https://www.linkedin.com/in/aermoshkin/" target="_blank">Vadim</a> </h2>
+<h3 align="center">Russia, Moscow</h3>
 
 My tech stack:
 
